@@ -1,0 +1,8 @@
+/Users/ozaydinb/Projects/docker-presentation/bin/Debug/netcoreapp1.1/docker-presentation.deps.json
+/Users/ozaydinb/Projects/docker-presentation/bin/Debug/netcoreapp1.1/docker-presentation.runtimeconfig.json
+/Users/ozaydinb/Projects/docker-presentation/bin/Debug/netcoreapp1.1/docker-presentation.runtimeconfig.dev.json
+/Users/ozaydinb/Projects/docker-presentation/bin/Debug/netcoreapp1.1/docker-presentation.dll
+/Users/ozaydinb/Projects/docker-presentation/bin/Debug/netcoreapp1.1/docker-presentation.pdb
+/Users/ozaydinb/Projects/docker-presentation/obj/Debug/netcoreapp1.1/docker-presentation.AssemblyInfo.cs
+/Users/ozaydinb/Projects/docker-presentation/obj/Debug/netcoreapp1.1/docker-presentation.dll
+/Users/ozaydinb/Projects/docker-presentation/obj/Debug/netcoreapp1.1/docker-presentation.pdb
